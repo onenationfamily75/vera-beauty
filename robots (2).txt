@@ -5,4 +5,4 @@ allow: /checkout.html
 allow: /thankyou.html
 allow: /*?*
 
-Sitemap: https://fragrancehub.shop/sitemap.xml
+Sitemap: http://luxenoirbeauty.shop/sitemap.xml
