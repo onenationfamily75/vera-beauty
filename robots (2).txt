@@ -1,8 +1,8 @@
 User-agent: *
 Allow: /
-Disallow: /cart.html
-Disallow: /checkout.html
-Disallow: /thankyou.html
-Disallow: /*?*
+allow: /cart.html
+allow: /checkout.html
+allow: /thankyou.html
+allow: /*?*
 
 Sitemap: https://fragrancehub.shop/sitemap.xml
